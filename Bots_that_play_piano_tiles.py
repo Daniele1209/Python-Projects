@@ -4,7 +4,6 @@ import keyboard
 import random
 import win32api, win32con
 
-pyautogui.displayMousePosition()
 #tile positions:
 # - tile_1 X:1128 Y:875
 # - tile_2 X:1224 Y:875
